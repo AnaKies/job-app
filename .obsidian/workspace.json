@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "d8996a8ed493ac7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d3cad74ce265279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "303ce7b64182638c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fcdee66ad070336",
+    "type": "split",
+    "children": [
+      {
+        "id": "69b6c3fed63e2049",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "483214c13d3b360d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e1b3c0a968c90528",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d2ee2aecf093f1e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6baccd636e02c38",
+    "type": "split",
+    "children": [
+      {
+        "id": "976b7eaed4072c99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa41da85701ab420",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/architecture/overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for overview"
+            }
+          },
+          {
+            "id": "928aef7ec79cea01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/architecture/overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from overview"
+            }
+          },
+          {
+            "id": "4b67f51641353256",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d8c0720ea767fd0b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f86284baaad51dda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/architecture/overview.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-translator:Translate": false,
+      "translate:Open translation view": false
+    }
+  },
+  "active": "303ce7b64182638c",
+  "lastOpenFiles": [
+    "docs/tasks/task-briefs/f9-f12.md",
+    "docs/tasks/task-briefs/f5-f8.md",
+    "docs/tasks/task-briefs/f1-f4.md",
+    "docs/tasks/user-tests.md",
+    "docs/tasks/task-briefs",
+    "docs/tasks/overview.md",
+    "docs/tasks/index.md",
+    "docs/architecture/user-perspective.md",
+    "docs/architecture/system-context.md",
+    "docs/architecture/storage.md",
+    "docs/architecture/runtime-observability.md",
+    "docs/architecture/port-contracts.md",
+    "docs/architecture/overview.md",
+    "docs/architecture/module-design.md",
+    "docs/architecture/interfaces.md",
+    "docs/architecture/index.md",
+    "docs/architecture/data-model.md",
+    "docs/architecture/boundaries.md",
+    "docs/tasks",
+    "docs/architecture",
+    "docs",
+    "venv/bin/activate",
+    "venv/bin/Activate.ps1",
+    "venv/bin/activate.csh",
+    "venv/bin/activate.fish",
+    "venv/lib/python3.9/site-packages/pip-21.2.4.dist-info/REQUESTED",
+    "venv/lib/python3.9/site-packages/pip-21.2.4.dist-info/INSTALLER",
+    "examine/qwen.md",
+    "examine/gemini.md",
+    "docs-ru/architecture/data-model.md",
+    "VISION.md",
+    "docs/examine/gemini.md",
+    "docs-ru/examine/qwen.md",
+    "docs-ru/examine.md",
+    "docs-ru/architecture/runtime-observability.md"
+  ]
+}
