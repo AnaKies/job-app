@@ -1,2 +1,10 @@
 agents/
 AGENTS.MD
+
+# Machine-written files: Finder metadata and JetBrains state. Tracking them keeps
+# git status permanently non-empty, which silently disables every automatic
+# fast-forward into this checkout -- see the 2026-08-13 note in the machine-wide
+# ~/.config/git/ignore. None of it is shared work.
+.DS_Store
+.idea/
+.vscode/
